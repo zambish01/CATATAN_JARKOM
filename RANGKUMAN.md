@@ -6,7 +6,7 @@ Langkah Pertama
 
 Static (Manual)
 1.	WinBox → IP → Addresses
-2.	Tambahkan IP Address baru → Contohnya 192.168.10.1/24 → Sesuaikan interface dengan ether dari sambungan kabel LAN → Apply → Ok
+2.	Tambahkan IP Address baru → misal 192.168.10.1/24 → Sesuaikan interface dengan ether dari sambungan kabel LAN → Apply → Ok
 3.	Buka Control Panel untuk mengatur IP Laptop
 Control Panel → Network and Internet → Network and Sharing Center → Ethernet → Properties
 4.	Ubah IPv4 dengan double click → Use the following IP Address → Isi dengan 192.168.10.2 (2 karena 1 sudah digunakan MikroTik) → Tab untuk kolom yang lain → Ok
@@ -14,7 +14,7 @@ Control Panel → Network and Internet → Network and Sharing Center → Ethern
 
 DHCP (Otomatis)
 1.	WinBox → IP → Addresses
-2.	Tambahkan IP Address baru → Contohnya 192.168.10.1/24 → Sesuaikan interface dengan ether dari sambungan kabel LAN → Apply → Ok
+2.	Tambahkan IP Address baru → misal 192.168.10.1/24 → Sesuaikan interface dengan ether dari sambungan kabel LAN → Apply → Ok
 3.	Buka Control Panel untuk mengatur IP Laptop
 Control Panel → Network and Internet → Network and Sharing Center → Ethernet → Properties
 4.	Ubah IPv4 dengan double click → Obtain an IP Address automatically → Ok
